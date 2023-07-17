@@ -5,15 +5,15 @@ Welcome to the Gym Workout Tracking and Progress Monitoring Application! This ap
 
 ## Functional Requirements:
 
-1.User Registration: Users can create an account to store their training data and track their progress.
+1. User Registration: Users can create an account to store their training data and track their progress.
 
-2.User Profile: Each user has a personal profile where they can enter information such as age, gender, weight, height, and training goals.
+2. User Profile: Each user has a personal profile where they can enter information such as age, gender, weight, height, and training goals.
 
-3.Workout Planning: Users can create customized workout plans based on their goals and preferences. They can add exercises, set the number of sets and repetitions, and specify weights.
+3. Workout Planning: Users can create customized workout plans based on their goals and preferences. They can add exercises, set the number of sets and repetitions, and specify weights.
 
-4.Workout Tracking: Users can record and track their completed workouts, including the date, exercise type, sets, repetitions, weights used, and workout duration.
+4. Workout Tracking: Users can record and track their completed workouts, including the date, exercise type, sets, repetitions, weights used, and workout duration.
 
-5.Workout Statistics: The application generates workout statistics to visualize users' progress over time. This includes strength gains, reduced workout duration, weight changes, etc., presented in charts and graphs.
+5. Workout Statistics: The application generates workout statistics to visualize users' progress over time. This includes strength gains, reduced workout duration, weight changes, etc., presented in charts and graphs.
 
 6. Notifications and Reminders: Users receive notifications and reminders to keep them informed about upcoming workouts and goals, providing motivation and support.
 
